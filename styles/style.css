@@ -84,7 +84,9 @@ color: #4d94d6;
     font-weight: 400;
     font-size: 24px;
 }
-
+.botao a{
+    display: block;
+}
 .botao:hover{
 
     background-color:#4d94d6 ;
