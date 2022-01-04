@@ -9,7 +9,7 @@
 
 body{
     background-image: linear-gradient(to bottom, #434343 0%, black 100%);
-    background-color: black;
+    background-color: #000000;
     background-repeat: no-repeat;
     color: #ececec;
     font-size: 100%;
@@ -121,4 +121,7 @@ color: #4d94d6;
     border-top: 0.4px solid #fff2e72d;
 }
 
-
+.rodape-img{
+    display: block;
+    margin: 0 auto;
+}
