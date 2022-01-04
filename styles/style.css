@@ -11,9 +11,6 @@ body{
     background-image: linear-gradient(to bottom, #434343 0%, black 100%);
     background-color: black;
     background-repeat: no-repeat;
-    min-height: 963px;
-    min-width: 1260px;  
-    /* background-color: #1e1e1e; */
     color: #ececec;
     font-size: 100%;
 }
