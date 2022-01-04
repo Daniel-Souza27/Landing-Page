@@ -88,7 +88,10 @@ color: #4d94d6;
 .botao:hover{
 
     background-color:#4d94d6 ;
-    /* background-color:#ccc8c8 ; */
+}
+.botao a:visited, a:link{
+    color: black;
+    text-decoration: none;
 }
 
 .conteudo-secundario{
