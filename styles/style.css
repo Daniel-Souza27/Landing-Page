@@ -29,22 +29,22 @@ body{
     gap: 32px;
 }
 
-.item{
+ .item{
     font-family: 'Sarala', sans-serif;
     color: #ececec;
     font-weight: 400;
     font-size: 18px;
 }
+.item:hover{
+    color: #4d94d6;
+    transition: 0.3s ease;
+    }
 
-.menu>.item:hover{
-color: #4d94d6;
-transition: 0.3s ease;
-}
-
-.menu>.item a:visited, a:link{
+.item:visited{
     color: #FFF ;
     text-decoration: none;
 }
+
 
 .container{
     margin-bottom: 48px;
